@@ -10,7 +10,7 @@ Convert JPEG and PNG images to WebP format.
 
 ### 📋 Prerequisites
 
-[Docker](https://docs.docker.com)
+* [Docker](https://docs.docker.com)
 
 ### 🏃 Running
 
