@@ -10,7 +10,7 @@ RUN apk update && \
 
 COPY build/ ./
 
-ARG quality=50
+ARG quality
 ENV quality=${quality}
 
 CMD [ "sh", "convert.sh" ]
